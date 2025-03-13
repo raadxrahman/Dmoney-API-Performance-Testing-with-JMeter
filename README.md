@@ -3,6 +3,14 @@
 
 ## Site Tested
 http://dmoney.roadtocareer.net
+#### Paths: 
+- /user/create
+- /transaction/deposit
+- /transaction/sendmoney
+- /transaction/payment
+
+
+
 
 ### Scenario:
   - 5 agents perform deposits for 10 customers,
@@ -22,4 +30,5 @@ http://dmoney.roadtocareer.net
 - Open the .jmx file using JMeter
 
 ## APDEX, Statistics and Results Summary 
+#### 100% requests passed.
 ![Screenshot 2025-03-13 023452](https://github.com/user-attachments/assets/56675af1-5c5d-49df-81f5-95997a5afa11)
